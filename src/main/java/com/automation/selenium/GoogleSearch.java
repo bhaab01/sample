@@ -51,6 +51,12 @@ public class GoogleSearch {
         //return .contains("qaautomation.net");
     
     }
+    
+    @Test 
+    public void test1() 
+    {
+        Assert.assertEquals("abc", "abc");
+    }
     @AfterTest
     public void destroy()
     {
