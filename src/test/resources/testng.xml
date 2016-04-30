@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="WebApp Test" verbose="1">
+	<test name="Build Acceptance Test">
+		<packages>
+			<package name="com.automation.selenium" />
+		</packages>
+	</test>
+</suite> 
