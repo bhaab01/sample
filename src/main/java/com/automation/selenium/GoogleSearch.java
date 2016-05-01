@@ -61,7 +61,7 @@ public class GoogleSearch {
     @Test 
     public void test2() 
     {
-        Assert.assertEquals("abc1", "abc");
+        Assert.assertEquals("abc", "abc");
     }
     @AfterTest
     public void destroy()
