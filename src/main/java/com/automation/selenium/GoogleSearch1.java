@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
  *
  * @author Rahul
  */
-public class GoogleSearch {
+public class GoogleSearch1 {
     static WebDriver driver;
     static Wait<WebDriver> wait;
     @BeforeTest
