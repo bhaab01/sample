@@ -55,7 +55,7 @@ public class GoogleSearch {
     @Test 
     public void test1() 
     {
-        Assert.assertEquals("abc", "abc");
+        Assert.assertEquals("abc1", "abc");
     }
     
     
